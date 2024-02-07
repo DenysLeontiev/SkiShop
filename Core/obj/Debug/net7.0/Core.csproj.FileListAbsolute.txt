@@ -1,0 +1,12 @@
+C:\TryCatchLearn\SkinetShop\skinet\Core\bin\Debug\net7.0\Core.deps.json
+C:\TryCatchLearn\SkinetShop\skinet\Core\bin\Debug\net7.0\Core.dll
+C:\TryCatchLearn\SkinetShop\skinet\Core\bin\Debug\net7.0\Core.pdb
+C:\TryCatchLearn\SkinetShop\skinet\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\TryCatchLearn\SkinetShop\skinet\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\TryCatchLearn\SkinetShop\skinet\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\TryCatchLearn\SkinetShop\skinet\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\TryCatchLearn\SkinetShop\skinet\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\TryCatchLearn\SkinetShop\skinet\Core\obj\Debug\net7.0\Core.dll
+C:\TryCatchLearn\SkinetShop\skinet\Core\obj\Debug\net7.0\refint\Core.dll
+C:\TryCatchLearn\SkinetShop\skinet\Core\obj\Debug\net7.0\Core.pdb
+C:\TryCatchLearn\SkinetShop\skinet\Core\obj\Debug\net7.0\ref\Core.dll

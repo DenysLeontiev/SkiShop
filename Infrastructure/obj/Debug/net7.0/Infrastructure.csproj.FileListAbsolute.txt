@@ -1,0 +1,15 @@
+C:\TryCatchLearn\SkinetShop\skinet\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\TryCatchLearn\SkinetShop\skinet\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\TryCatchLearn\SkinetShop\skinet\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\TryCatchLearn\SkinetShop\skinet\Infrastructure\bin\Debug\net7.0\Core.dll
+C:\TryCatchLearn\SkinetShop\skinet\Infrastructure\bin\Debug\net7.0\Core.pdb
+C:\TryCatchLearn\SkinetShop\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\TryCatchLearn\SkinetShop\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\TryCatchLearn\SkinetShop\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\TryCatchLearn\SkinetShop\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\TryCatchLearn\SkinetShop\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\TryCatchLearn\SkinetShop\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\TryCatchLearn\SkinetShop\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\TryCatchLearn\SkinetShop\skinet\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\TryCatchLearn\SkinetShop\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\TryCatchLearn\SkinetShop\skinet\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
