@@ -22,7 +22,7 @@ public class BasketController : BaseApiController
     }
 
     [HttpPost]
-    public async Task<ActionResult<CustomerBasket>> UpdateBasket(CustomerBasket customerBasket)
+    public async Task<ActionResult<CustomerBasket>> UpdateBasket([FromBody] CustomerBasket customerBasket)
     {
         var updatedBasket = await _basketRepository.UpdateBasketAsync(customerBasket);
 

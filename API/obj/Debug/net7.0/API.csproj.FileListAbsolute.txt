@@ -73,3 +73,9 @@ C:\TryCatchLearn\SkinetShop\skinet\API\obj\Debug\net7.0\refint\API.dll
 C:\TryCatchLearn\SkinetShop\skinet\API\obj\Debug\net7.0\API.pdb
 C:\TryCatchLearn\SkinetShop\skinet\API\obj\Debug\net7.0\API.genruntimeconfig.cache
 C:\TryCatchLearn\SkinetShop\skinet\API\obj\Debug\net7.0\ref\API.dll
+C:\TryCatchLearn\SkinetShop\skinet\API\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\TryCatchLearn\SkinetShop\skinet\API\bin\Debug\net7.0\StackExchange.Redis.dll
+C:\TryCatchLearn\SkinetShop\skinet\API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\TryCatchLearn\SkinetShop\skinet\API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\TryCatchLearn\SkinetShop\skinet\API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\TryCatchLearn\SkinetShop\skinet\API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll

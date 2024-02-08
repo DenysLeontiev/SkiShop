@@ -21,16 +21,14 @@ public class BasketRepository : IBasketRepository
         return string.IsNullOrEmpty(data) ? null : JsonSerializer.Deserialize<CustomerBasket>(data);
     }
     
-    public async Task<CustomerBasket> UpdateBasketAsync(CustomerBasket customerBasket)
+    public async Task<CustomerBasket> UpdateBasketAsync(CustomerBasket basket)
     {
-        var created = await _redisDb.StringSetAsync(customerBasket.Id, JsonSerializer.Serialize(customerBasket), TimeSpan.FromDays(30));
+        var created = await _redisDb.StringSetAsync(basket.Id, JsonSerializer.Serialize(basket),
+            TimeSpan.FromDays(30));
 
-        if (!created)
-        {
-            return null;
-        }
+        if (!created) return null;
 
-        return await GetBasketAsync(customerBasket.Id);
+        return await GetBasketAsync(basket.Id);
     }
 
     public async Task<bool> DeleteBasketAsync(string basketId)
