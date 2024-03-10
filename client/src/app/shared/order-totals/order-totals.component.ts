@@ -1,4 +1,7 @@
 import { Component } from '@angular/core';
+import { Observable, of } from 'rxjs';
+import { BasketService } from 'src/app/basket/basket.service';
+import { IBasketTotals } from '../models/basket';
 
 @Component({
   selector: 'app-order-totals',
@@ -7,4 +10,11 @@ import { Component } from '@angular/core';
 })
 export class OrderTotalsComponent {
 
+  basketTotal$: Observable<IBasketTotals | null> = of(null);
+
+  constructor(private basketService: BasketService) { }
+
+  ngOnInit(): void {
+    this.basketTotal$ = this.basketService.basketTotal$;
+  }
 }
